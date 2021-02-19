@@ -15,9 +15,9 @@ The Vehicle descriptions...
 <img src="images/low1.png/">
 <img src="images/high1.png/">
 2. We can reject the null hypothesis that married and unmarried customers stay the same, it turns out that unmarried customers have lower spending scores on average. most likley because only one person will pay for the car.
+3. Healthcare workers tend to spend the least, while lawers and executives tend to spend the most.
 <img src="images/low2.png/">
 <img src="images/high2.png/">
-3. Healthcare workers tend to spend the least, while lawers and executives tend to spend the most.
 
 ## Reccomendations
 1. Avoid marketing more expensive vehicles to people under 35-40.

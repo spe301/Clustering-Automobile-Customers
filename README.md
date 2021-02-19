@@ -12,11 +12,11 @@ The Vehicle descriptions...
 
 ## EDA Conclusions
 1. Spending Scores tend to increase as age increases. Almost all customers with 'low' spending scores are under 50, and the distribution really dips off after 40.
-<img src="Images/low1.jpg/">
-<img src="Images/high1.jpg/">
+<img src="Images/low1.png/">
+<img src="Images/high1.png/">
 2. We can reject the null hypothesis that married and unmarried customers stay the same, it turns out that unmarried customers have lower spending scores on average. most likley because only one person will pay for the car.
-<img src="Images/low2.jpg/">
-<img src="Images/high2.jpg/">
+<img src="Images/low2.png/">
+<img src="Images/high2.png/">
 3. Healthcare workers tend to spend the least, while lawers and executives tend to spend the most.
 
 ## Reccomendations

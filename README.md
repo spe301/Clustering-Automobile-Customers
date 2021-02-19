@@ -36,4 +36,4 @@ The Vehicle descriptions...
 5. People, about 60% men, in their 50's with artists and lawers being very popular professions. We'll market the Pickup Truck to them because they seem most likley to buy it. however they would probably be better suited for a Sports Car or Compact SUV.
 
 feel free to check out my analysis of the clusters on Tableu
-https://public.tableau.com/profile/spencer.holley#!/vizhome/ClusteringAutomobileData/Sheet4?publish=yes
+https://public.tableau.com/profile/spencer.holley#!/vizhome/ClusteringAutomobileData/Dashboard1

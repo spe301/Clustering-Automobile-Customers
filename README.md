@@ -34,3 +34,6 @@ The Vehicle descriptions...
 3. Young people with kids predominatley working in the healthcare & medical industry. We'll market the Sedan to them because it's the cheapest option.
 4. people in their 40's, predominatley working in the arts and entertainment space. We'll market the Compact SUV to them based primarly on their average spending score.
 5. People, about 60% men, in their 50's with artists and lawers being very popular professions. We'll market the Pickup Truck to them because they seem most likley to buy it. however they would probably be better suited for a Sports Car or Compact SUV.
+
+feel free to check out my analysis of the clusters on Tableu
+https://public.tableau.com/profile/spencer.holley#!/vizhome/ClusteringAutomobileData/Sheet4?publish=yes
